@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = laraklemme@gmail.com
+	name = Lara Klemme
